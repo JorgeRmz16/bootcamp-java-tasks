@@ -5,7 +5,7 @@ public class exercises01 {
     // Exercise 1 - error: invalid method declaration; return type require
     // Add the return type String
     String err1() {
-    return "¿Dónde está el error?";
+        return "¿Dónde está el error?";
     }
 
     // Exercise 2 - error: cannot find symbol string
