@@ -1,6 +1,6 @@
 package tasks.exercises;
 
-public class exercise04 {
+public class exercises04 {
     
     // Exercise 01
     // The method charAt(int) in the type String is not applicable for the arguments (String, int)
